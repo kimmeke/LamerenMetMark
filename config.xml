@@ -12,5 +12,5 @@
 </widget>
 <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.4.3">
     <param name="APP_ID" value="1054205568045853" />
-    <param name="APP_NAME" value="LameremMetMark" />
+    <param name="APP_NAME" value="LamerenMetMark" />
 </gap:plugin>
