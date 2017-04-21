@@ -9,10 +9,9 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <plugin name="cordova-plugin-facebook-account-kit" spec="~0.1.6">
+        <variable name="APP_ID" value="1054205568045853" />
+        <variable name="APP_NAME" value="LamerenMetMark" />
+        <variable name="AK_TOKEN" value="cb8840d190e52a55d186a5d70f9d7bde" />
+    </plugin>
 </widget>
-<!--
-<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.4.3">
-    <param name="APP_ID" value="1054205568045853" />
-    <param name="APP_NAME" value="LamerenMetMark" />
-</gap:plugin>
--->
