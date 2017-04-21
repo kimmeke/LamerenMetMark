@@ -1,0 +1,106 @@
+
+#pagina1,
+#pagina2,
+#pagina3{
+    background-color: whitesmoke;
+}
+
+#vriendenNavigatie{
+    display: block;
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    opacity: 0.7;
+    font-size: 25px;
+}
+
+#arrowVrienden{
+    display: block;
+    position: absolute;
+    left: 5px;
+    top: 27px;
+    opacity: 0.4;
+    font-size: 20px;
+}
+
+#arrowMenu{
+    display: block;
+    position: absolute;
+    right: 5px;
+    top: 27px;
+    opacity: 0.4;
+    font-size: 20px;
+}
+
+#menuNavigatie{
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    opacity: 0.7;
+    font-size: 25px;
+}
+
+#inputHomescherm{
+    bottom: 10px;
+    width: 90%;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5x;
+    border-radius: 5px;
+    padding-right: 10%;
+    font-size: 16px;
+}
+
+#formInputHome{
+    display: inline;
+    position: absolute;
+    width: 90%;
+    height: 48px;
+    bottom: 20px;
+    margin-left: -46%;
+    justify-content: space-between;
+    
+}
+
+#submitHome{
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 100px;
+    width: 30px;
+    background-color: none;
+    color: black;
+    position: absolute;
+    right: -2px;;
+    bottom: 10px;
+    z-index: 0;
+    background-color: whitesmoke;
+    border: 1px solid red;
+    opacity: 0.3;
+}
+
+#verzendknopHome{
+    position: absolute;
+    right: 4px;;
+    bottom: 15px;
+    z-index: 1;
+    font-size: 20px;
+    color: red;
+}
+
+#navigatie{
+    bottom: 0;
+}
+
+#chatbotMark{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-image: url(../images/MarkIcon.png);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 38%;
+}
